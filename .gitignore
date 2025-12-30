@@ -1,0 +1,48 @@
+# 編譯和建置檔案
+**/bin/
+**/obj/
+**/packages/
+*.dll
+*.exe
+*.pdb
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+.vscode/
+
+# IDE
+.idea/
+*.sln.iml
+*.swp
+*.swo
+*~
+
+# Test Results
+[Tt]est[Rr]esult*/
+[Bb]uild[Ll]og.*
+
+# NuGet
+*.nupkg
+*.snupkg
+
+# 臨時檔案
+*.tmp
+*.bak
+*~
+
+# 作業系統
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# 環境設定
+.env
+.env.local
+
+# 使用者密鑰
+secrets.json
+user-secrets.json

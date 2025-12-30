@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "sPU8LOxamzY=",
+  "success": true,
+  "projectFilePath": "D:\\C\\Desk\\Code\\AI_DI2\\Examples\\Advanced\\Advanced05_PerformanceOptimization\\Advanced05_PerformanceOptimization.csproj",
+  "expectedPackageFiles": [
+    "V:\\Users\\lawliet\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\8.0.0\\microsoft.extensions.dependencyinjection.8.0.0.nupkg.sha512",
+    "V:\\Users\\lawliet\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "V:\\Users\\lawliet\\.nuget\\packages\\microsoft.extensions.objectpool\\8.0.0\\microsoft.extensions.objectpool.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

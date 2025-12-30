@@ -1,0 +1,79 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\C\\Desk\\Code\\AI_DI2\\Examples\\Basic\\Basic03_TransientLifetime\\Basic03_TransientLifetime.csproj": {}
+  },
+  "projects": {
+    "D:\\C\\Desk\\Code\\AI_DI2\\Examples\\Basic\\Basic03_TransientLifetime\\Basic03_TransientLifetime.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\C\\Desk\\Code\\AI_DI2\\Examples\\Basic\\Basic03_TransientLifetime\\Basic03_TransientLifetime.csproj",
+        "projectName": "Basic03_TransientLifetime",
+        "projectPath": "D:\\C\\Desk\\Code\\AI_DI2\\Examples\\Basic\\Basic03_TransientLifetime\\Basic03_TransientLifetime.csproj",
+        "packagesPath": "V:\\Users\\lawliet\\.nuget\\packages\\",
+        "outputPath": "D:\\C\\Desk\\Code\\AI_DI2\\Examples\\Basic\\Basic03_TransientLifetime\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "V:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "V:\\Users\\lawliet\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "V:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "V:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "V:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "10.0.100"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "V:\\Program Files\\dotnet\\sdk\\10.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

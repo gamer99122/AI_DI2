@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "TRC16vcFVNk=",
+  "success": true,
+  "projectFilePath": "D:\\C\\Desk\\Code\\AI_DI2\\Examples\\Intermediate\\Intermediate01_ScopedFactory\\Intermediate01_ScopedFactory.csproj",
+  "expectedPackageFiles": [
+    "V:\\Users\\lawliet\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\8.0.0\\microsoft.extensions.dependencyinjection.8.0.0.nupkg.sha512",
+    "V:\\Users\\lawliet\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

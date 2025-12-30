@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZBPT1l68i74=",
+  "success": true,
+  "projectFilePath": "D:\\C\\Desk\\Code\\AI_DI2\\Examples\\Basic\\Basic26_DecoratorPattern\\Basic26_DecoratorPattern.csproj",
+  "expectedPackageFiles": [
+    "V:\\Users\\lawliet\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\8.0.0\\microsoft.extensions.dependencyinjection.8.0.0.nupkg.sha512",
+    "V:\\Users\\lawliet\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

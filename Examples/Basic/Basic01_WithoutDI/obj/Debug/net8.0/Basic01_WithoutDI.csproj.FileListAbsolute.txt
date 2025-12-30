@@ -1,0 +1,14 @@
+D:\C\Desk\Code\AI_DI2\Examples\Basic\Basic01_WithoutDI\bin\Debug\net8.0\Basic01_WithoutDI.exe
+D:\C\Desk\Code\AI_DI2\Examples\Basic\Basic01_WithoutDI\bin\Debug\net8.0\Basic01_WithoutDI.deps.json
+D:\C\Desk\Code\AI_DI2\Examples\Basic\Basic01_WithoutDI\bin\Debug\net8.0\Basic01_WithoutDI.runtimeconfig.json
+D:\C\Desk\Code\AI_DI2\Examples\Basic\Basic01_WithoutDI\bin\Debug\net8.0\Basic01_WithoutDI.dll
+D:\C\Desk\Code\AI_DI2\Examples\Basic\Basic01_WithoutDI\bin\Debug\net8.0\Basic01_WithoutDI.pdb
+D:\C\Desk\Code\AI_DI2\Examples\Basic\Basic01_WithoutDI\obj\Debug\net8.0\Basic01_WithoutDI.GeneratedMSBuildEditorConfig.editorconfig
+D:\C\Desk\Code\AI_DI2\Examples\Basic\Basic01_WithoutDI\obj\Debug\net8.0\Basic01_WithoutDI.AssemblyInfoInputs.cache
+D:\C\Desk\Code\AI_DI2\Examples\Basic\Basic01_WithoutDI\obj\Debug\net8.0\Basic01_WithoutDI.AssemblyInfo.cs
+D:\C\Desk\Code\AI_DI2\Examples\Basic\Basic01_WithoutDI\obj\Debug\net8.0\Basic01_WithoutDI.csproj.CoreCompileInputs.cache
+D:\C\Desk\Code\AI_DI2\Examples\Basic\Basic01_WithoutDI\obj\Debug\net8.0\Basic01_WithoutDI.dll
+D:\C\Desk\Code\AI_DI2\Examples\Basic\Basic01_WithoutDI\obj\Debug\net8.0\refint\Basic01_WithoutDI.dll
+D:\C\Desk\Code\AI_DI2\Examples\Basic\Basic01_WithoutDI\obj\Debug\net8.0\Basic01_WithoutDI.pdb
+D:\C\Desk\Code\AI_DI2\Examples\Basic\Basic01_WithoutDI\obj\Debug\net8.0\Basic01_WithoutDI.genruntimeconfig.cache
+D:\C\Desk\Code\AI_DI2\Examples\Basic\Basic01_WithoutDI\obj\Debug\net8.0\ref\Basic01_WithoutDI.dll

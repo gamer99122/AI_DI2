@@ -1,0 +1,53 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.0.0
+MinimumVisualStudioVersion = 10.0.40219.1
+
+# Basic 範例 (01-10)
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Basic01_WithoutDI", "Examples\Basic\Basic01_WithoutDI\Basic01_WithoutDI.csproj", "{01000001-0000-0000-0000-000000000001}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Basic02_WithDI", "Examples\Basic\Basic02_WithDI\Basic02_WithDI.csproj", "{01000002-0000-0000-0000-000000000002}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Basic03_TransientLifetime", "Examples\Basic\Basic03_TransientLifetime\Basic03_TransientLifetime.csproj", "{01000003-0000-0000-0000-000000000003}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Basic04_ScopedLifetime", "Examples\Basic\Basic04_ScopedLifetime\Basic04_ScopedLifetime.csproj", "{01000004-0000-0000-0000-000000000004}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Basic05_SingletonLifetime", "Examples\Basic\Basic05_SingletonLifetime\Basic05_SingletonLifetime.csproj", "{01000005-0000-0000-0000-000000000005}"
+EndProject
+
+# Intermediate 範例
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Intermediate01_ScopedFactory", "Examples\Intermediate\Intermediate01_ScopedFactory\Intermediate01_ScopedFactory.csproj", "{02000001-0000-0000-0000-000000000001}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Intermediate02_AsyncInitialization", "Examples\Intermediate\Intermediate02_AsyncInitialization\Intermediate02_AsyncInitialization.csproj", "{02000002-0000-0000-0000-000000000002}"
+EndProject
+
+# Advanced 範例
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Advanced01_CustomServiceProvider", "Examples\Advanced\Advanced01_CustomServiceProvider\Advanced01_CustomServiceProvider.csproj", "{03000001-0000-0000-0000-000000000001}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Advanced02_InterceptorPattern", "Examples\Advanced\Advanced02_InterceptorPattern\Advanced02_InterceptorPattern.csproj", "{03000002-0000-0000-0000-000000000002}"
+EndProject
+
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{01000001-0000-0000-0000-000000000001}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01000001-0000-0000-0000-000000000001}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01000001-0000-0000-0000-000000000001}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01000001-0000-0000-0000-000000000001}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
+
+<!--
+注意：這是一個簡化的 Solution 文件範例
+完整的 Solution 應包含所有 50 個專案
+
+使用 Visual Studio 打開後，可以透過「加入現有專案」來添加其他範例
+或者使用命令列：
+  dotnet sln add Examples/Basic/BasicXX_Example/BasicXX_Example.csproj
+-->

@@ -1,0 +1,29 @@
+{
+  "version": 2,
+  "dgSpecHash": "U0LY8GEuZck=",
+  "success": true,
+  "projectFilePath": "D:\\C\\Desk\\Code\\AI_DI2\\Examples\\Basic\\Basic19_IDistributedCache\\Basic19_IDistributedCache.csproj",
+  "expectedPackageFiles": [
+    "V:\\Users\\lawliet\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\8.0.0\\microsoft.extensions.caching.abstractions.8.0.0.nupkg.sha512",
+    "V:\\Users\\lawliet\\.nuget\\packages\\microsoft.extensions.caching.memory\\8.0.0\\microsoft.extensions.caching.memory.8.0.0.nupkg.sha512",
+    "V:\\Users\\lawliet\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\8.0.0\\microsoft.extensions.dependencyinjection.8.0.0.nupkg.sha512",
+    "V:\\Users\\lawliet\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "V:\\Users\\lawliet\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.0\\microsoft.extensions.logging.abstractions.8.0.0.nupkg.sha512",
+    "V:\\Users\\lawliet\\.nuget\\packages\\microsoft.extensions.options\\8.0.0\\microsoft.extensions.options.8.0.0.nupkg.sha512",
+    "V:\\Users\\lawliet\\.nuget\\packages\\microsoft.extensions.primitives\\8.0.0\\microsoft.extensions.primitives.8.0.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1903",
+      "level": "Warning",
+      "message": "套件 'Microsoft.Extensions.Caching.Memory' 8.0.0 具有已知的 高 嚴重性弱點，https://github.com/advisories/GHSA-qj66-m88j-hmgj。",
+      "projectPath": "D:\\C\\Desk\\Code\\AI_DI2\\Examples\\Basic\\Basic19_IDistributedCache\\Basic19_IDistributedCache.csproj",
+      "warningLevel": 1,
+      "filePath": "D:\\C\\Desk\\Code\\AI_DI2\\Examples\\Basic\\Basic19_IDistributedCache\\Basic19_IDistributedCache.csproj",
+      "libraryId": "Microsoft.Extensions.Caching.Memory",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    }
+  ]
+}

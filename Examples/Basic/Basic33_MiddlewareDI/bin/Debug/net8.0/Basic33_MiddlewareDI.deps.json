@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Basic33_MiddlewareDI/1.0.0": {
+        "runtime": {
+          "Basic33_MiddlewareDI.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Basic33_MiddlewareDI/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

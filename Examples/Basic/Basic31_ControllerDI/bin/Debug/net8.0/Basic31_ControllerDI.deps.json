@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Basic31_ControllerDI/1.0.0": {
+        "runtime": {
+          "Basic31_ControllerDI.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Basic31_ControllerDI/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
